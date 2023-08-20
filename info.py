@@ -28,7 +28,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-PICS = (environ.get('PICS' ,'https://graph.org/file/cc94cbdc6c73ded70a3cb.jpg')).split()
+PICS = (environ.get('PICS' ,'https://graph.org/file/b436046165973d1a6d4d8.jpg')).split()
 BOT_START_TIME = time()
 
 # Admins, Channels & Users
