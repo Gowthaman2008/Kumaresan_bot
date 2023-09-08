@@ -23,6 +23,10 @@ class script(object):
 
 ⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>
   </b>"""
+    
+    SOURCE_TXT ="""
+    
+  """
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
