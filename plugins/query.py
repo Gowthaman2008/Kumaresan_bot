@@ -529,12 +529,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("🎈 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/Movie_Request_Group_Tamil_Hd")
+            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/tamil_movies_bot2")
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
             ],[
-            InlineKeyboardButton('CR_Linkzz', url='https://t.me/CR_Tamil_Movies_Official')
+            InlineKeyboardButton('⚜️𝙹𝙾𝙸𝙽 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⚜️', url='https://t.me/ai_tamilmoviez')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
