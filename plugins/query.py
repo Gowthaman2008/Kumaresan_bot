@@ -1,4 +1,4 @@
-import asyncio, re, ast, math, logging, random, pyrogram
+importimport asyncio, re, ast, math, logging, random, pyrogram
 
 # pyrogram functions
 from pyrogram.errors.exceptions.bad_request_400 import MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty
@@ -529,7 +529,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("🎈 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/tamil_movies_bot2")
+            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/Tamil_MovieZ_GroupZ")
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
